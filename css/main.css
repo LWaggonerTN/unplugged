@@ -92,7 +92,8 @@ textarea {
 /* ==========================================================================
    Helper classes
    ========================================================================== */
-
+   
+  
 /*
  * Hide visually and from screen readers
  */
@@ -263,3 +264,11 @@ textarea {
   }
 }
 
+/* .phone {
+  font-size: 16.336px;
+  font-family: "papyrus";
+  color: purple;
+  line-height: 1.2;
+  text-align: center;
+   
+} */
